@@ -47,7 +47,7 @@ Searching for specific information in multiple documents manually can be time-co
 | Abdullah    | Group Member |
 | Abdul Moaiz | Group Member |
 
-Responsibilities will be divided collaboratively as the project progresses.
+
 
 ## Project Structure
 
@@ -73,16 +73,8 @@ The project idea has been selected. The initial requirements, repository setup, 
 
 ## Development Approach
 
-The project will be developed collaboratively using Git and GitHub. Both group members will contribute through their own GitHub accounts, maintain meaningful commit history, and update the requirements and task list as the project evolves.
-
 Functional programming will be the primary programming approach, with an emphasis on reusable functions and appropriate use of concepts such as `map()`, `filter()`, `reduce()`, lambda functions, and comprehensions.
 
 The implementation will avoid unnecessary complexity and minimize reliance on advanced data structures.
 
-## Future Scope
 
-The system may be extended with additional search options, improved text processing, and more advanced relevance ranking based on the needs identified during development.
-
----
-
-*Software Construction and Development — Semester Project*
